@@ -1,7 +1,7 @@
 // coleção dinâmica de pares chave/valor
 const produto = new Object 
 produto.nome = 'Cadeira'
-produto['maeca do produto'] = 'Generica'
+produto['marca do produto'] = 'Generica'
 produto.preco = 220
 
 console.log(produto)
